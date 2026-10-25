@@ -1,0 +1,13 @@
+
+            Payment Status: paid
+================================
+     ELECTRICITY BILL RECEIPT
+================================
+Bill Number   : 1792857805
+Customer ID   : 101
+Customer Name : Tamilarasi
+Units Used    : 150
+Bill Amount   : Rs. 350
+================================
+Thank you!
+================================

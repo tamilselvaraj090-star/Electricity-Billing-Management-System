@@ -1,0 +1,26 @@
+[
+    {
+        "id": "102",
+        "name": "Jas",
+        "address": "Salem",
+        "units": 50
+    },
+    {
+        "id": "103",
+        "name": "Viji",
+        "address": "Erode",
+        "units": 250
+    },
+    {
+        "id": "104",
+        "name": "Tamilarasi",
+        "address": "Namakkal",
+        "units": 150
+    },
+    {
+        "id": "105",
+        "name": "Mahes",
+        "address": "Chennai",
+        "units": 500
+    }
+]

@@ -1,0 +1,11 @@
+
+================================
+     ELECTRICITY BILL RECEIPT
+================================
+Customer ID   : 102
+Customer Name : Jas
+Units Used    : 50
+Bill Amount   : Rs. 100
+================================
+Thank you!
+================================

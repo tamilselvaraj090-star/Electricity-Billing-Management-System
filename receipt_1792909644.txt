@@ -1,0 +1,13 @@
+
+            Payment Status: paid
+================================
+     ELECTRICITY BILL RECEIPT
+================================
+Bill Number   : 1792909644
+Customer ID   : 105
+Customer Name : Mahes
+Units Used    : 500
+Bill Amount   : Rs. 2000
+================================
+Thank you!
+================================
